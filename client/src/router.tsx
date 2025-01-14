@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router";
 
-import { Home } from "./pages/Home";
+import { Home } from "@pages/Home";
 
 export const Router = (): JSX.Element => {
   return (
